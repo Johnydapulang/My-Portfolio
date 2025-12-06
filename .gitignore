@@ -1,0 +1,21 @@
+#Python cache
+*.pyc
+__pycache__/
+
+#Database
+db.sqlite3
+
+#virtual environment
+.venv/
+env/
+
+#django static files
+/staticfiles/
+
+#Environment variables
+.env
+
+#logs
+*.log
+
+
